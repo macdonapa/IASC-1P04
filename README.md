@@ -1,2 +1,7 @@
-# IASC-1P04
-Github repository for IASC 1P04 at Brock University
+# IASC-1P04 | Parker MacDonald
+
+Welcome to the website for my Twine game for Brock
+
+## Playtest
+
+Playtest my game [here]()
